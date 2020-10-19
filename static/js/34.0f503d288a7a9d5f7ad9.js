@@ -1,0 +1,2 @@
+webpackJsonp([34],{"4Kig":function(e,t,n){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var o={name:"DeleteRecord",components:{},data:function(){return{}},mounted:function(){localStorage.removeItem("vuexList")},methods:{},computed:{}},r={render:function(){var e=this.$createElement;return(this._self._c||e)("div",{staticClass:"delete-record"})},staticRenderFns:[]};var a=n("VU/8")(o,r,!1,function(e){n("FKa/")},"data-v-067c4958",null);t.default=a.exports},"FKa/":function(e,t){}});
+//# sourceMappingURL=34.0f503d288a7a9d5f7ad9.js.map
